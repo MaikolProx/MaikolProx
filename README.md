@@ -24,6 +24,7 @@ Construyo sistemas de IA aplicados: RAG, agentes, automatización. También audi
 ## Contacto
 
 - Email: [paz243482@gmail.com](mailto:paz243482@gmail.com)
+- LinkedIn: [in/miguel-hernandez-04129542a](https://www.linkedin.com/in/miguel-hernandez-04129542a/)
 - Indeed: [perfil de empleo](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-jobseeker-profile--profile-one-frontend)
 - TryHackMe: [paz243482](https://tryhackme.com/p/paz243482)
 - HackTheBox: [Paintadch](https://profile.hackthebox.com/)
