@@ -8,10 +8,10 @@
 
 | Proyecto | Valida | Eval/report | Estado |
 |---|---|---|---|
-| [**hybrid-rag-evals**](./hybrid-rag-evals) | Producción RAG: hybrid retrieval + reranking + evals (recall@k, MRR, NDCG, faithfulness) | ✅ `evals/report.md` con números | ✅ Listo |
-| [**medusa**](./medusa) | Sistema real en producción: RAG sobre 133+ docs, agentes, streaming, orquestación n8n | Traces y health checks en vivo | ✅ En operación |
-| [**security-toolkit**](./security-toolkit) | Herramientas de seguridad propias: scanner, auditoría HTTP, JWT, enumeración | ✅ `pytest` + write-ups | ✅ Listo |
-| [**tryhackme-roadmap**](./tryhackme-roadmap.md) | Camino validado: TryHackMe + HTB + KC7/Kusto + certificaciones, plan 90 días | Write-ups CTF con metodología | 🔄 En curso |
+| [**hybrid-rag-evals**](https://github.com/MaikolProx/hybrid-rag-evals) | Producción RAG: hybrid retrieval + reranking + evals (recall@k, MRR, NDCG, faithfulness) | ✅ `evals/report.md` con números | ✅ Listo |
+| [**medusa**](https://github.com/MaikolProx/medusa) | Sistema real en producción: RAG sobre 133+ docs, agentes, streaming, orquestación n8n | Traces y health checks en vivo | ✅ En operación |
+| [**security-toolkit**](https://github.com/MaikolProx/security-toolkit) | Herramientas de seguridad propias: scanner, auditoría HTTP, JWT, enumeración | ✅ `pytest` + write-ups | ✅ Listo |
+| [**tryhackme-roadmap**](https://github.com/MaikolProx/tryhackme-roadmap) | Camino validado: TryHackMe + HTB + KC7/Kusto + certificaciones, plan 90 días | Write-ups CTF con metodología | 🔄 En curso |
 
 ## Validadores de empleo (lo que busca un hiring manager en 2026)
 
