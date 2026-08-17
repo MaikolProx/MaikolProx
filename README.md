@@ -1,4 +1,4 @@
-# 👋 Hola, soy Miguel Hernández
+# 👋 Hola, soy  Maik
 
 **AI Engineer | Full-Stack Developer** — Construyo sistemas de IA que funcionan en producción, no demos.
 
