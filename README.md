@@ -1,8 +1,8 @@
 # Hi, I'm Miguel Hernandez
 
-**AI Engineer | Full-Stack Developer | Security Enthusiast**
+**AI Engineer | Full-Stack Developer**
 
-Building production AI systems that actually work — not demos. I specialize in RAG pipelines, autonomous agents, and security auditing. Currently focused on hybrid retrieval systems, LLM evaluation frameworks, and threat hunting with KQL.
+Building production AI systems that actually work — not demos. I specialize in RAG pipelines, autonomous agents, and full-stack development.
 
 ---
 
@@ -33,11 +33,6 @@ Security auditing tools built from scratch using only Python's standard library:
 
 ---
 
-### [tryhackme-roadmap](https://github.com/MaikolProx/tryhackme-roadmap) — 90-Day Security Learning Plan
-Structured roadmap: Security+ (Professor Messer) → KC7/Kusto threat hunting → eJPT certification. Includes CV lines and platform profiles.
-
----
-
 ## Technical Skills
 
 | Domain | Technologies |
@@ -46,16 +41,8 @@ Structured roadmap: Security+ (Professor Messer) → KC7/Kusto threat hunting �
 | **Backend** | Python, FastAPI, Node.js, PostgreSQL, Redis, Celery |
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
 | **DevOps** | Docker, CI/CD, GitHub Actions, Cloudflare Workers |
-| **Security** | Network Auditing, JWT Analysis, Threat Hunting (KQL), MITRE ATT&CK |
+| **Security** | Network Auditing, JWT Analysis, Vulnerability Research |
 | **Tools** | Git, Linux, SQLite, n8n, ngrok |
-
----
-
-## Certifications & Platforms
-
-- [TryHackMe](https://tryhackme.com/p/paz243482) — Active learner
-- [HackTheBox](https://profile.hackthebox.com/) — machines & challenges
-- [KC7 Cyber](https://kc7cyber.com/profile/26f75ba2) — KQL threat hunting
 
 ---
 
@@ -63,7 +50,7 @@ Structured roadmap: Security+ (Professor Messer) → KC7/Kusto threat hunting �
 
 - **Advanced RAG**: pgvector HNSW, semantic chunking, production evaluation pipelines
 - **Agentic Systems**: LangGraph state machines, human-in-the-loop, memory management
-- **Security**: Threat hunting with KQL, CTF challenges, vulnerability research
+- **Full-Stack**: .NET, React, cloud deployments
 
 ---
 
@@ -71,8 +58,6 @@ Structured roadmap: Security+ (Professor Messer) → KC7/Kusto threat hunting �
 
 - **Email**: [paz243482@gmail.com](mailto:paz243482@gmail.com)
 - **LinkedIn**: [miguel-hernandez-04129542a](https://www.linkedin.com/in/miguel-hernandez-04129542a/)
-- **TryHackMe**: [paz243482](https://tryhackme.com/p/paz243482)
-- **KC7 Cyber**: [profile](https://kc7cyber.com/profile/26f75ba2)
 
 ---
 
