@@ -1,6 +1,6 @@
-﻿# Miguel Hernandez — AI Engineer
+# Miguel Hernandez � AI Engineer
 
-Building production AI systems that actually work — not demos. I specialize in RAG pipelines, autonomous agents, and security auditing.
+Building production AI systems that actually work � not demos. I specialize in RAG pipelines, autonomous agents, and security auditing.
 
 ## What I Do
 
@@ -15,11 +15,11 @@ Building production AI systems that actually work — not demos. I specialize in
 
 | Project | What It Does | Status |
 |---------|--------------|--------|
-| [rag-demo](https://github.com/MaikolProx/rag-demo) | Production RAG: hybrid search (BM25 + embeddings + RRF + rerank), multi-tenancy, autonomous agents. Deploy in 1 click. | ✅ Live |
-| [hybrid-rag-evals](https://github.com/MaikolProx/hybrid-rag-evals) | RAG híbrido: BM25 + embeddings + RRF + rerank. Recall@5: 0.643 → 0.964. 93.27% coverage. | ✅ Live |
-| [medusa](https://github.com/MaikolProx/medusa) | Autonomous second brain: 6,000+ chunks RAG, 6 agents, voice, auto-publishing. | ✅ Running 24/7 |
-| [security-toolkit](https://github.com/MaikolProx/security-toolkit) | Security tools from scratch (stdlib only): portscan, subenum, httpaudit, jwtdump. | ✅ 16/16 tests |
-| [tryhackme-roadmap](https://github.com/MaikolProx/tryhackme-roadmap) | 90-day security learning plan: THM → HTB → KC7 → certs. | 📋 In Progress |
+| [rag-demo](https://github.com/MaikolProx/rag-demo) | Production RAG: hybrid search (BM25 + embeddings + RRF + rerank), multi-tenancy, autonomous agents. Deploy in 1 click. | ? Live |
+| [hybrid-rag-evals](https://github.com/MaikolProx/hybrid-rag-evals) | RAG h�brido: BM25 + embeddings + RRF + rerank. Recall@5: 0.643 ? 0.964. 93.27% coverage. | ? Live |
+| [medusa](https://github.com/MaikolProx/medusa) | Autonomous second brain: 6,000+ chunks RAG, 6 agents, voice, auto-publishing. | ? Running 24/7 |
+| [security-toolkit](https://github.com/MaikolProx/security-toolkit) | Security tools from scratch (stdlib only): portscan, subenum, httpaudit, jwtdump. | ? 16/16 tests |
+| [tryhackme-roadmap](https://github.com/MaikolProx/tryhackme-roadmap) | 90-day security learning plan: THM ? HTB ? KC7 ? certs. | ?? In Progress |
 
 ---
 
@@ -41,7 +41,7 @@ Building production AI systems that actually work — not demos. I specialize in
 
 ## Connect
 
-- **Email**: [paz243482@gmail.com](mailto:paz243482@gmail.com)
+- **Email**: [${OAUTH_EMAIL}](mailto:${OAUTH_EMAIL})
 - **LinkedIn**: [miguel-hernandez-04129542a](https://www.linkedin.com/in/miguel-hernandez-04129542a/)
 - **GitHub**: [MaikolProx](https://github.com/MaikolProx)
 - **TryHackMe**: [paz243482](https://tryhackme.com/p/paz243482)
